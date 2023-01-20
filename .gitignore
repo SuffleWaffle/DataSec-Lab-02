@@ -1,0 +1,22 @@
+# --- Default ignored files ---
+
+
+# --- Default ignored directories ---
+/.idea
+/__pycache__/
+**/__pycache__/
+# --- Specific ingnored files ---
+
+
+# --- Specific ingnored directories ---
+
+
+# --- Environments ---
+.env
+.venv
+env/
+venv/
+ENV/
+VENV/
+env.bak/
+venv.bak/
